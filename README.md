@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- Programming Languages -->
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,php&perline=10" />
+</p>
 
-<!--
-**HashenS/HashenS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Frontend Technologies -->
+### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss,materialui,html,css,webflow&perline=10" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Backend & Databases -->
+### Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,postgresql,mongodb,prisma&perline=10" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Tools & Platforms -->
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,linux,bash&perline=10" />
+</p>
